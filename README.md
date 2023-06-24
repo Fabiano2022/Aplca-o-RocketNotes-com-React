@@ -44,9 +44,6 @@ Quando o usuário clica em uma nota, ele vai para uma tela que mostra os detalhe
 
 
 
-[Visite o projeto online] (https://fabiano2022.github.io/Focus-Timer-2.0/) 
-
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/OjZgU6LbYLViQlgjMSgNG1/RocketNotes-(Copy)?type=design&node-id=0-1&mode=design&t=XwPxkDSjhaUMSZTj-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
