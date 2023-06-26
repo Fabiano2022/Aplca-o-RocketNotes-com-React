@@ -36,9 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto:
 
-Nesse projeto desemvolvemos a apliacação RocketNote. Com a aplicação podemos gerenciar links e adcionar anotações. 
+Nesse projeto desenvolvemos a apliacação RocketNote. Com a aplicação podemos gerenciar links e adicionar anotações. 
 
-Na apliacação encontraremos uma interface de Login (autenticação de usuário). Caso o usuário não tenha uma conta, ele pode clicar em criar conta. Ao fazer o login, o ususário vai para tela de Home. Na Home, ele pode criar uma nota, filtrar a nota por tag, pesquisar a nota pelo título. A apliacação vai listar as notas para ele.
+Na aplicação encontraremos uma interface de Login (autenticação de usuário). Caso o usuário não tenha uma conta, ele pode clicar em criar conta. Ao fazer o login, o usuário vai para tela de Home. Na Home, ele pode criar uma nota, filtrar a nota por tag, pesquisar a nota pelo título. A apliacação vai listar as notas para ele.
 Para sair da aplicação, basta clicar no botão logout. Se o usuário quiser, ele pode ver os dados do perfil dele e efetuar algumas operações, como: trocar a foto, mudar o nome e trocar a senha. 
 Quando o usuário clica em uma nota, ele vai para uma tela que mostra os detalhes da nota.
 
